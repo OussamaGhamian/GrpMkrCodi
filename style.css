@@ -22,11 +22,11 @@ button {
     justify-self: center;
     border-radius: 50%;
     height: 120px;
-    max-width: 120px;
+    width: 120px;
     box-shadow: 2px 3px 0px 0px red;
     background-color: black;
     color: red;
-    margin-left: 45%;
+    align-self: center;;
     border: black;
     margin-top: 60px;
     margin-bottom: 90px;
